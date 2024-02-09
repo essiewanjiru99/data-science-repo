@@ -1,4 +1,4 @@
-# data-science-repo
+# Data Science Repo
 
 ## Table of Contents
 * Introduction
